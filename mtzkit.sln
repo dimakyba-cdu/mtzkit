@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mtzkit", "mtzkit.csproj", "{48A7B700-2847-4A3E-8608-822CB83DD495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A7B700-2847-4A3E-8608-822CB83DD495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A7B700-2847-4A3E-8608-822CB83DD495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A7B700-2847-4A3E-8608-822CB83DD495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A7B700-2847-4A3E-8608-822CB83DD495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB950B65-98E8-4301-A52A-17EE68DD3F6F}
+	EndGlobalSection
+EndGlobal
